@@ -1,0 +1,23 @@
+import pywikibot
+
+site = pywikibot.Site("en", "TillsWiki")
+repo = site.data_repository()
+
+data = {
+    'labels': {
+        'en': {
+            'language': 'en',
+            'value': 'This is the item\'s label3',
+            }
+        },
+    'descriptions': {
+        'en': {
+            'language': 'en',
+            'value': 'this is the item\'s description'
+            }
+        }
+    }
+
+item = pywikibot.ItemPage(site)
+item.editEntity(data)
+

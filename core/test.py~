@@ -1,0 +1,22 @@
+import pywikibot
+
+site = pywikibot.Site("test", "wikidata")
+repo = site.data_repository()
+print(dir(repo))
+#item = pywikibot.ItemPage(repo, "Q23781433")
+item = pywikibot.ItemPage(repo, "Q2306")
+#print(dir(item))
+print(item.exists())
+print(item.title())
+item_dict = item.get()
+print(dir(item_dict))
+print(item_dict.keys())
+print(item_dict['labels'])
+
+#print(repoitem = pywikibot.ItemPage(reoi, u"Q25")
+#print(dir(item))
+#print(item.data_item())
+#claim = pywikibot.Claim(site, u'P6')
+#target = pywikibot.ItemPage(site, u"Q6")
+#claim.setTarget(target)
+#item.addClaim(claim)

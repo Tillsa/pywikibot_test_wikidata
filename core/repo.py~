@@ -1,0 +1,11 @@
+import pywikibot
+
+site = pywikibot.Site("en", "TillsWiki")
+repo = site.data_repository()
+#print(repoitem = pywikibot.ItemPage(reoi, u"Q25")
+#print(dir(item))
+#print(item.data_item())
+#claim = pywikibot.Claim(site, u'P6')
+#target = pywikibot.ItemPage(site, u"Q6")
+#claim.setTarget(target)
+#item.addClaim(claim)

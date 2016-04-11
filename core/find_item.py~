@@ -1,0 +1,8 @@
+import pywikibot
+site = pywikibot.Site("en", "TillsWiki")
+page = pywikibot.Page(site, u"Douglas Adams")
+item = pywikibot.ItemPage.fromPage(page)
+dictionary = item.get()
+print(dictionary)
+print(dictionary.keys())
+print(item)

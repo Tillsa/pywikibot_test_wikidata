@@ -1,0 +1,16 @@
+#LWP-Cookies-2.0
+Set-Cookie3: WMF-Last-Access="11-Apr-2016"; path="/"; domain="test.wikidata.org"; path_spec; expires="2016-05-13 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_Token=0705b4a53a40c98113a75a63df6914e3; path="/"; domain="test.wikidata.org"; path_spec; secure; expires="2016-05-11 11:12:12Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=BacterialAnnotationBot; path="/"; domain="test.wikidata.org"; path_spec; secure; expires="2016-05-11 11:12:12Z"; httponly=None; version=0
+Set-Cookie3: forceHTTPS=true; path="/"; domain="test.wikidata.org"; path_spec; expires="2016-05-11 11:12:12Z"; httponly=None; version=0
+Set-Cookie3: testwikidatawikiUserID=1795; path="/"; domain="test.wikidata.org"; path_spec; secure; expires="2016-05-11 11:12:12Z"; httponly=None; version=0
+Set-Cookie3: testwikidatawikiUserName=BacterialAnnotationBot; path="/"; domain="test.wikidata.org"; path_spec; secure; expires="2016-05-11 11:12:12Z"; httponly=None; version=0
+Set-Cookie3: tills_wikiToken=bad4ce4176f110291bac3285f834d7c3; path="/"; domain="wrzh182.rzhousing.uni-wuerzburg.de"; path_spec; secure; expires="2016-09-17 12:42:49Z"; httponly=None; version=0
+Set-Cookie3: tills_wikiUserID=2; path="/"; domain="wrzh182.rzhousing.uni-wuerzburg.de"; path_spec; secure; expires="2016-09-17 12:42:49Z"; httponly=None; version=0
+Set-Cookie3: tills_wikiUserName=BacterialAnnotationBot; path="/"; domain="wrzh182.rzhousing.uni-wuerzburg.de"; path_spec; secure; expires="2016-09-17 12:42:49Z"; httponly=None; version=0
+Set-Cookie3: WMF-Last-Access="11-Apr-2016"; path="/"; domain="www.wikidata.org"; path_spec; expires="2016-05-13 00:00:00Z"; HttpOnly=None; version=0
+Set-Cookie3: centralauth_Token=0705b4a53a40c98113a75a63df6914e3; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2016-05-11 10:20:37Z"; httponly=None; version=0
+Set-Cookie3: centralauth_User=BacterialAnnotationBot; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2016-05-11 10:20:37Z"; httponly=None; version=0
+Set-Cookie3: forceHTTPS=true; path="/"; domain="www.wikidata.org"; path_spec; expires="2016-05-11 10:20:37Z"; httponly=None; version=0
+Set-Cookie3: wikidatawikiUserID=2695048; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2016-05-11 10:20:37Z"; httponly=None; version=0
+Set-Cookie3: wikidatawikiUserName=BacterialAnnotationBot; path="/"; domain="www.wikidata.org"; path_spec; secure; expires="2016-05-11 10:20:37Z"; httponly=None; version=0
